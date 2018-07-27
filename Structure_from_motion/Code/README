@@ -1,0 +1,10 @@
+Run Main.m file to generate:
+
+1) 3D point cloud
+2) Plot cameras and points
+3) Reprojection on Image2
+4) Matched features between 1 and 2
+
+All helper functions have been documented.
+
+RANSAC uses geometric error function.Read GetInliersRANSAC for documentation
